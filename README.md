@@ -30,6 +30,7 @@ voltages are noted down.
 
 <img width="575" height="457" alt="image" src="https://github.com/user-attachments/assets/99a3dafe-99f5-4b37-ba07-2c82b84cb5bd" />
 
-RESULT:
+RESULT:<img width="1332" height="781" alt="Screenshot 2025-10-16 133624" src="https://github.com/user-attachments/assets/cc713dc3-34e2-4257-b79f-a4f93675ed7b" />
+
 
 
